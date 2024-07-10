@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #ffc501;
+}
+
+.about {
+  padding-top: 2rem;
+  background-color: #ffffff;
+}
+
+#projects {
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 3rem;
+}
+
+.shadow-text {
+  text-shadow: 5px 5px 5px rgb(25, 25, 25), -2px -2px 4px rgba(1, 1, 1, 2);
+}
